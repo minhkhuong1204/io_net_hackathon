@@ -73,13 +73,3 @@ Thanks to io.net for this amazing opportunity! I’m excited to keep exploring t
 
 ---
 
-### File Creation Instructions
-To save this content as a file:
-1. **Copy and Paste**: Copy the above text into a text editor (e.g., Notepad, VS Code, or Word).
-2. **Save as Text File**:
-   - For `.txt`: Save with a name like `io_net_hackathon_video_plan.txt`.
-   - For `.docx`: Paste into Microsoft Word or Google Docs and save.
-   - For `.md` (Markdown): Use a Markdown editor and save as `io_net_hackathon_video_plan.md`.
-3. **Alternative**: If you want a downloadable file, I can’t directly create files, but you can use an online tool like [Text to File](https://www.texttofile.com/) or save it locally. Let me know if you need a specific format, and I can format the text accordingly (e.g., with Markdown headers).
-
-Let me know if you need help with formatting, additional content, or specific file delivery!
