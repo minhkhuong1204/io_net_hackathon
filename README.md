@@ -1,6 +1,4 @@
-Below is the content for the **Video Structure (2–5 Minutes)** section and the **Sample Script (3 Minutes)** section from the revised response, formatted for easy export to a file. I’ll provide the content in plain text, suitable for saving as a `.txt` file, or you can copy it into any other format (e.g., `.docx`, `.md`) as needed. If you want a specific file format or delivery method (e.g., downloadable file via a link), please let me know, and I can guide you further.
 
----
 
 ### Content for File
 
